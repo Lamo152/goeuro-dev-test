@@ -1,2 +1,3 @@
-# goeuro-dev-test
- The GoEuro developers test Solution project. 
+# goeuro-test
+
+The solution for the GoEuro [dev-test](https://github.com/goeuro/dev-test).
